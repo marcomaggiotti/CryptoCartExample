@@ -1,0 +1,5 @@
+[
+  { "id": 1, "title": "Tables 1 - 4 person", "price": 30, "inventory": 6 },
+  { "id": 2, "title": "Tables 2 - 6 person", "price": 40, "inventory": 4 },
+  { "id": 3, "title": "Tables 3 - 4 couch", "price": 35, "inventory": 2 }
+]
